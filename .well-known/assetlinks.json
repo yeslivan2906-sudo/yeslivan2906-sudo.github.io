@@ -1,19 +1,27 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.nexavacio.laberinto",
-    "sha256_cert_fingerprints": [
-      "E9:68:89:3B:AF:87:44:AD:67:0D:AC:9B:53:E9:B1:F9:D5:47:59:2D:DA:22:EC:14:31:A9:82:EB:12:53:27:B4"
-    ]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.nexavacio.laberinto",
+      "sha256_cert_fingerprints": [
+        "7C:7B:7F:F6:7B:7C:C0:02:E1:6A:36:58:3F:E8:88:5E:6C:FD:64:3A:8A:AD:FA:9B:A9:68:CB:5F:A0:8F:34:64",
+        "E9:68:89:3B:AF:87:44:AD:67:0D:AC:9B:53:E9:B1:F9:D5:47:59:2D:DA:22:EC:14:31:A9:82:EB:12:53:27:B4"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.yeslivan2906_sudo.twa",
+      "sha256_cert_fingerprints": [
+        "E9:68:89:3B:AF:87:44:AD:67:0D:AC:9B:53:E9:B1:F9:D5:47:59:2D:DA:22:EC:14:31:A9:82:EB:12:53:27:B4"
+      ]
+    }
   }
-}, {
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.yeslivan2906_sudo.twa",
-    "sha256_cert_fingerprints": [
-      "E9:68:89:3B:AF:87:44:AD:67:0D:AC:9B:53:E9:B1:F9:D5:47:59:2D:DA:22:EC:14:31:A9:82:EB:12:53:27:B4"
-    ]
-  }
-}]
+]
