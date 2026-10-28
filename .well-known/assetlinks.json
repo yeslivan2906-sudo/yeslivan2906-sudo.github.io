@@ -1,14 +1,8 @@
-[
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "io.github.yeslivan2906_sudo.twa",
-      "sha256_cert_fingerprints": [
-        "E9:68:89:3B:AF:87:44:AD:67:0D:AC:9B:53:E9:B1:F9:D5:47:59:2D:DA:22:EC:14:31:A9:82:EB:12:53:27:B4"
-      ]
-    }
-  }
-]
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.yeslivan2906_sudo.twa",
+        "sha256_cert_fingerprints": ["E9:68:89:3B:AF:87:44:AD:67:0D:AC:9B:53:E9:B1:F9:D5:47:59:2D:DA:22:EC:14:31:A9:82:EB:12:53:27:B4"]
+      }
+    }]
